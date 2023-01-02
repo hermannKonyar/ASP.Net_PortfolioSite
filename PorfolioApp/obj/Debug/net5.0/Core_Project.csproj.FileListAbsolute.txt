@@ -160,3 +160,4 @@ C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
