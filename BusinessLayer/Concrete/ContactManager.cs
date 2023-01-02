@@ -9,38 +9,38 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrete
 {
-    public class ContactManager : IAboutService
+    public class ContactManager : IGenericService<Contact>
     {
-        IAboutDal _aboutDal;
+        IContactDal _contactDal;
 
-        public ContactManager(IAboutDal aboutDal)
+        public ContactManager(IContactDal contactDal)
         {
-            _aboutDal = aboutDal;
+            _contactDal = contactDal;
         }
 
-        public About GetByID(int id)
+        public Contact GetByID(int id)
         {
-            return _aboutDal.GetByID(id);
+            return _contactDal.GetByID(id);
         }
 
-        public List<About> GetList()
+        public List<Contact> GetList()
         {
-            return _aboutDal.GetList();
+            return _contactDal.GetList();
         }
 
-        public void TAdd(About t)
+        public void TAdd(Contact t)
         {
-            _aboutDal.Insert(t);
+            _contactDal.Insert(t);
         }
 
-        public void TDelete(About t)
+        public void TDelete(Contact t)
         {
-            _aboutDal.Delete(t);
+            _contactDal.Delete(t);
         }
 
-        public void TUpdate(About t)
+        public void TUpdate(Contact t)
         {
-            _aboutDal.Update(t);
+            _contactDal.Update(t);
         }
     }
 }
