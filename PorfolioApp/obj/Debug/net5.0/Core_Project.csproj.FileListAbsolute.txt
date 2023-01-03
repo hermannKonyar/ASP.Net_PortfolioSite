@@ -170,3 +170,10 @@ C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialSidebar.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialNavbar.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Skill\SkillAdd.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialNavigation.cshtml.g.cs
