@@ -177,3 +177,4 @@ C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Skill\SkillAdd.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Admin\PartialNavigation.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Skill\SkillEdit.cshtml.g.cs

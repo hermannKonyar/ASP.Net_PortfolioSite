@@ -32,5 +32,25 @@ namespace Core_Project.Controllers
             skillManager.TAdd(p);
             return RedirectToAction("Index");
         }
+        public IActionResult SkillDelete(int id)
+        {
+            var values = skillManager.GetByID(id);
+            skillManager.TDelete(values);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult SkillEdit(int id)
+        {
+            ViewBag.V1 = "Yetenek Düzenleme";
+            ViewBag.V2 = "Yetenekler";
+            ViewBag.V3 = "Yetenek Düzenleme";
+            var values =skillManager.GetByID(id);
+            return View(values);
+        }
+
+       
+
+
     }
 }
