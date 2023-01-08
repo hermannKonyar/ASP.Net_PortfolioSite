@@ -49,7 +49,14 @@ namespace Core_Project.Controllers
             return View(values);
         }
 
-       
+        [HttpPost]
+        public IActionResult SkillEdit(Skill skill)
+        {
+            skillManager.TUpdate(skill);
+            return RedirectToAction("Index");
+        }
+
+
 
 
     }
