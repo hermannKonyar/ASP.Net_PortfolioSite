@@ -20,7 +20,10 @@
         <label>Resim Yolu</label>
     @Html.TextBoxFor(x=>x.ImageUrl,new { @class ="form-control"})
         <br />
-        <label>Açıklama</label>
+        <label>Şirket İsmi</label>
+    @Html.TextBoxFor(x=>x.CompanyName,new { @class ="form-control"})
+    <br />
+    <label>Açıklama</label>
     @Html.TextAreaFor(x=>x.Description,10,3,new { @class ="form-control"})
         <br />
         <button class="btn btn-primary">Düzenle</button>

@@ -182,3 +182,9 @@ C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Experience\ExperienceAdd.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Experience\ExperienceEdit.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Portfolio\Index.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Portfolio\AddPortfolio.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Core_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Portfolio\PortfolioEdit.cshtml.g.cs
