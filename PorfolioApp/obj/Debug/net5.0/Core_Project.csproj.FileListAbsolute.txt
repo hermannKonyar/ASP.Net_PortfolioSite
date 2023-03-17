@@ -188,3 +188,5 @@ C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\bin\Debug\net5.0\FluentValid
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Core_Project.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Portfolio\PortfolioEdit.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
