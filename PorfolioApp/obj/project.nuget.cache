@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vQ64tv04QLWJ6FZ9c9dLnqvgypasAiHTiYu2WSjviDgzcrIGg76cwOph5Lzdcx8IBHb3ClCEHga1NyVi7bRqbw==",
+  "dgSpecHash": "ORDiJ4drIGInpF8+6vH50ZnC0qNrFdzFhMututKBJU4p3AWs/FeB834T0A8rBzK6TFtiiDIeva/0TSMQ3x+8Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erman\\source\\repos\\PorfolioApp\\PorfolioApp\\Core_Project.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\Erman\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.6.0\\microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
     "C:\\Users\\Erman\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Erman\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Erman\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.2\\microsoft.typescript.msbuild.5.0.2.nupkg.sha512",
     "C:\\Users\\Erman\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\5.0.2\\microsoft.visualstudio.web.codegeneration.5.0.2.nupkg.sha512",
     "C:\\Users\\Erman\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\Erman\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\5.0.2\\microsoft.visualstudio.web.codegeneration.core.5.0.2.nupkg.sha512",

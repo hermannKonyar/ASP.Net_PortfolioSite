@@ -348,6 +348,11 @@
               "target": "Package",
               "version": "[5.0.17, )"
             },
+            "Microsoft.TypeScript.MSBuild": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"

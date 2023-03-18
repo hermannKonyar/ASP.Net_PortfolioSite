@@ -193,3 +193,5 @@ C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Service\ServiceAdd.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Service\ServiceEdit.cshtml.g.cs
 C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+C:\Users\Erman\source\repos\PorfolioApp\PorfolioApp\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
